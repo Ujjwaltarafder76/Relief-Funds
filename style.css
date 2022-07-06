@@ -6,18 +6,11 @@ body {
     text-align: center;
     padding-top: 15%;
     padding-bottom: 5%;
+    color: white;
 }
 
 h1 {
     font-size: 50px;
-    margin: 0%;
-    color: whitesmoke;
-}
-
-p {
-    font-size: 20px;
-    color: whitesmoke;
-
 }
 
 .design-link {
@@ -27,6 +20,7 @@ p {
     background-color: tomato;
     color: white;
     margin-top: 100px;
+
 }
 
 .top-banner {
@@ -35,4 +29,22 @@ p {
     background-size: cover;
     height: 100%;
 
+}
+
+.donete-today {
+    text-align: center;
+    padding-top: 5%;
+}
+
+span {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+
+}
+
+#pink {
+    background-color: rgba(232, 164, 164, 0.904);
+    border: 2px solid orangered;
 }
