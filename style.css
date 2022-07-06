@@ -1,0 +1,38 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-donet {
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0%;
+    color: whitesmoke;
+}
+
+p {
+    font-size: 20px;
+    color: whitesmoke;
+
+}
+
+.design-link {
+    text-decoration: none;
+    border-radius: 8px;
+    border: 14px solid tomato;
+    background-color: tomato;
+    color: white;
+    margin-top: 100px;
+}
+
+.top-banner {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
