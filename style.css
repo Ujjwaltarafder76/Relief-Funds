@@ -4,13 +4,17 @@ body {
 
 .about-donet {
     text-align: center;
-    padding-top: 15%;
+    padding-top: 8%;
     padding-bottom: 5%;
     color: white;
 }
 
 h1 {
     font-size: 50px;
+}
+
+p {
+    font-size: 30px;
 }
 
 .design-link {
@@ -33,7 +37,7 @@ h1 {
 
 .donete-today {
     text-align: center;
-    padding-top: 5%;
+    padding-top: 2%;
 }
 
 span {
@@ -47,4 +51,65 @@ span {
 #pink {
     background-color: rgba(232, 164, 164, 0.904);
     border: 2px solid orangered;
+}
+
+.donet-plan {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.flexible-container {
+    display: flex;
+    text-decoration: none;
+}
+
+.box-shado-1 {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 20px gray;
+    background-color: pink;
+}
+
+.box-shado-2 {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 20px gray;
+    background-color: rgb(211, 98, 22);
+}
+
+.box-shado-3 {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 20px gray;
+    background-color: rgb(148, 86, 96);
+}
+
+.half-width {
+    width: 50%;
+    padding-top: 9%;
+    font-size: 45px;
+
+}
+
+.contact {
+    background-color: lightblue;
+    color: red;
+    padding: 50px;
+    border: none;
+    text-align: center;
+    margin: 7%
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    font-size: 25px;
+    border: none;
+    color: azure;
+    padding: 60px;
+    width: 100%;
+
 }
